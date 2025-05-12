@@ -12,6 +12,7 @@ A collection of bite-sized Python projects ranging from simple automation to CLI
 
 - 🎓 **Student Report Card Generator** → Auto-generate grade reports
 - ✅ **To-Do List CLI App** → Task management in your terminal
+- Table Printer
 - ⚙️ *More projects coming soon...*
 
 ---
